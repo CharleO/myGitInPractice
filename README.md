@@ -1,0 +1,4 @@
+myGitInPractice
+===============
+
+Git In Practice
